@@ -1,3 +1,6 @@
+// Copyright (c) 2018 Sagar Wani
+// ssswanil@gmail.com 
+
 package main
 
 import (
